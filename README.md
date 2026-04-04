@@ -141,6 +141,7 @@ public_html/
     │   │   └── ChatMessage.php
     │   ├── services/
     │   │   ├── AuthService.php
+    │   │   ├── ServiceManager.php
     │   │   ├── AnalyticsService.php
     │   │   ├── MailService.php
     │   │   ├── ProjectService.php
