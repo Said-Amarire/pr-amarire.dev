@@ -190,6 +190,7 @@ public_html/
     │   ├── helpers/
     │   │   ├── url.php
     │   │   ├── CurrencyUpdater.php
+    │   │   ├── currency.php
     │   │   ├── seo.php
     │   │   ├── assets.php
     │   │   ├── security.php
