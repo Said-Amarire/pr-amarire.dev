@@ -131,11 +131,15 @@ public_html/
     │   │   ├── User.php
     │   │   ├── Visitor.php
     │   │   ├── Project.php
-    │   │   ├── Service.php
     │   │   ├── Currency.php
     │   │   ├── Order.php
     │   │   ├── Contact.php
     │   │   ├── Payment.php
+    │   │   ├── Category.php
+    │   │   ├── Service.php
+    │   │   ├── Package.php
+    │   │   ├── Addon.php
+    │   │   ├── ServiceRequest.php
     │   │   ├── VisitorAnalytics.php
     │   │   ├── VisitorEvent.php
     │   │   └── ChatMessage.php
