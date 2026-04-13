@@ -152,16 +152,17 @@ public_html/
     │   │   ├── VisitorEvent.php
     │   │   └── ChatMessage.php
     │   ├── services/
-    │   │   ├── AuthService.php
-    │   │   ├── ServiceManager.php
-    │   │   ├── AnalyticsService.php
-    │   │   ├── MailService.php
-    │   │   ├── ProjectService.php
-    │   │   ├── ContactService.php
-    │   │   ├── PaymentService.php
-    │   │   ├── ReceiptService.php
-    │   │   ├── AiService.php
-    │   │   ├── ChatbotService.php
+    │   │   ├── Shared/
+    │   │   |   ├── AuthService.php
+    │   │   |   ├── ServiceManager.php
+    │   │   |   ├── AnalyticsService.php
+    │   │   |   ├── MailService.php
+    │   │   |   ├── ProjectService.php
+    │   │   |   ├── ContactService.php
+    │   │   |   ├── PaymentService.php
+    │   │   |   ├── ReceiptService.php
+    │   │   |   ├── AiService.php
+    │   │   |   └── ChatbotService.php
     │   │   └── api/
     │   │       └── RateLimitService.php
     │   ├── ai/
