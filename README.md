@@ -112,21 +112,29 @@ public_html/
     │   │   ├── Security.php
     │   │   └── Session.php
     │   ├── controllers/
-    │   │   ├── HomeController.php
-    │   │   ├── PageController.php
-    │   │   ├── DemoController.php
-    │   │   ├── AuthController.php
-    │   │   ├── DashboardController.php
-    │   │   ├── InvoiceController.php
-    │   │   ├── PaymentController.php
-    │   │   ├── ServiceController.php
-    │   │   ├── FormController.php
-    │   │   ├── ChatbotController.php
-    │   │   ├── AdminController.php
-    │   │   ├── ReceiptController.php
-    │   │   ├── VerifyController.php
-    │   │   ├── EventController.php
-    │   │   └── ApiController.php
+    │   │   ├── web/
+    │   │   │   ├── HomeController.php
+    │   │   │   ├── PageController.php
+    │   │   │   ├── DemoController.php
+    │   │   │   ├── AuthController.php
+    │   │   │   ├── DashboardController.php
+    │   │   │   ├── InvoiceController.php
+    │   │   │   ├── PaymentController.php
+    │   │   │   ├── ServiceController.php
+    │   │   │   ├── FormController.php
+    │   │   │   ├── ChatbotController.php
+    │   │   │   ├── AdminController.php
+    │   │   │   ├── ReceiptController.php
+    │   │   │   ├── VerifyController.php
+    │   │   │   ├── EventController.php
+    │   │   │   └── ApiController.php
+    │   │   └── api/
+    │   │       ├── v1/
+    │   │       │   ├── ServiceApiController.php
+    │   │       │   ├── AuthApiController.php
+    │   │       │   ├── ProjectApiController.php
+    │   │       │   └── PaymentApiController.php
+    │   │       └── v2/
     │   ├── models/
     │   │   ├── User.php
     │   │   ├── Visitor.php
@@ -153,7 +161,9 @@ public_html/
     │   │   ├── PaymentService.php
     │   │   ├── ReceiptService.php
     │   │   ├── AiService.php
-    │   │   └── ChatbotService.php
+    │   │   ├── ChatbotService.php
+    │   │   └── api/
+    │   │       └── RateLimitService.php
     │   ├── ai/
     │   │   ├── OpenAIClient.php
     │   │   ├── PromptTemplates.php
@@ -186,12 +196,16 @@ public_html/
     │   │       ├── services.php
     │   │       └── projects.php
     │   ├── middleware/
-    │   │   ├── Csrf.php
-    │   │   ├── Auth.php
-    │   │   ├── Headers.php
-    │   │   ├── Audit.php
-    │   │   ├── MiddlewareStack.php
-    │   │   └── Intrusion.php
+    │   │   ├── web/
+    │   │   |   ├── Csrf.php
+    │   │   |   ├── Auth.php
+    │   │   |   ├── Headers.php
+    │   │   |   ├── Audit.php
+    │   │   |   ├── MiddlewareStack.php
+    │   │   |   └── Intrusion.php
+    │   │   └── api/
+    │   │       ├── ApiAuth.php
+    │   │       └── RateLimit.php
     │   ├── helpers/
     │   │   ├── url.php
     │   │   ├── CurrencyUpdater.php
@@ -200,6 +214,14 @@ public_html/
     │   │   ├── assets.php
     │   │   ├── security.php
     │   │   └── i18n.php
+    │   ├── api/
+    │   │   ├── resources/
+    │   │   │   ├── ServiceResource.php
+    │   │   │   └── UserResource.php
+    │   │   ├── validators/
+    │   │   │   └── SearchValidator.php
+    │   │   ├── responses/
+    │   │   │   └── ApiResponse.php
     │   ├── routes/
     │   │   ├── web.php
     │   │   └── api.php
