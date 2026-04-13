@@ -152,7 +152,7 @@ public_html/
     │   │   ├── VisitorEvent.php
     │   │   └── ChatMessage.php
     │   ├── services/
-    │   │   ├── Shared/
+    │   │   ├── shared/
     │   │   |   ├── AuthService.php
     │   │   |   ├── ServiceManager.php
     │   │   |   ├── AnalyticsService.php
