@@ -158,7 +158,8 @@ public_html/
     │   │   ├── ServiceRequest.php
     │   │   ├── VisitorAnalytics.php
     │   │   ├── VisitorEvent.php
-    │   │   └── ChatMessage.php
+    │   │   ├── ChatMessage.php
+    │   │   └── ApiRateLimit.php
     │   ├── services/
     │   │   ├── shared/
     │   │   |   ├── AuthService.php
