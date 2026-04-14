@@ -132,7 +132,15 @@ public_html/
     │   │       ├── v1/
     │   │       │   ├── ServiceApiController.php
     │   │       │   ├── AuthApiController.php
+    │   │       │   ├── UserApiController.php
+    │   │       │   ├── ServicesSearchApiController.php
+    │   │       │   ├── ServicesOrderApiController.php
     │   │       │   ├── ProjectApiController.php
+    │   │       │   ├── ServiceRequestApiController.php
+    │   │       │   ├── DashboardApiController.php
+    │   │       │   ├── ChatbotApiController.php
+    │   │       │   ├── NotificationApiController.php
+    │   │       │   ├── ContactApiController.php
     │   │       │   └── PaymentApiController.php
     │   │       └── v2/
     │   ├── models/
@@ -164,6 +172,9 @@ public_html/
     │   │   |   ├── AiService.php
     │   │   |   └── ChatbotService.php
     │   │   └── api/
+    │   │       ├── TokenService.php
+    │   │       ├── ApiLogger.php
+    │   │       ├── ThrottleService.php
     │   │       └── RateLimitService.php
     │   ├── ai/
     │   │   ├── OpenAIClient.php
@@ -206,6 +217,10 @@ public_html/
     │   │   |   └── Intrusion.php
     │   │   └── api/
     │   │       ├── ApiAuth.php
+    │   │       ├── JwtAuth.php
+    │   │       ├── ApiLogger.php
+    │   │       ├── Cors.php
+
     │   │       └── RateLimit.php
     │   ├── helpers/
     │   │   ├── url.php
@@ -315,6 +330,5 @@ public_html/
         │   └── php-font-lib/
         ├── PHPMailer/
         ├── I18N/
-        ├── -
         └── .htaccess
 ```
