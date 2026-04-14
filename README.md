@@ -219,8 +219,7 @@ public_html/
     │   │       ├── ApiAuth.php
     │   │       ├── JwtAuth.php
     │   │       ├── ApiLogger.php
-    │   │       ├── Cors.php
-    │   │       └── RateLimit.php
+    │   │       └── Cors.php
     │   ├── helpers/
     │   │   ├── url.php
     │   │   ├── CurrencyUpdater.php
