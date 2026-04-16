@@ -220,7 +220,6 @@ public_html/
     │   │   └── api/
     │   │       ├── ApiAuth.php
     │   │       ├── JwtAuth.php
-    │   │       ├── ApiLogger.php
     │   │       └── Cors.php
     │   ├── helpers/
     │   │   ├── url.php
