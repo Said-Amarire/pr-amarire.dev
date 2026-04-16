@@ -231,6 +231,7 @@ public_html/
     │   │   ├── security.php
     │   │   └── i18n.php
     │   ├── api/
+    │   │   ├── ApiGateway.php
     │   │   ├── resources/
     │   │   │   ├── ServiceResource.php
     │   │   │   └── UserResource.php
