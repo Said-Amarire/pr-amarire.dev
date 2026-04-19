@@ -177,7 +177,8 @@ public_html/
     │   │       ├── TokenService.php
     │   │       ├── ApiLogger.php
     │   │       ├── ThrottleService.php
-    │   │       └── RateLimitService.php
+    │   │       ├── RateLimitService.php
+    │   │       └── ServiceSearchService.php
     │   ├── ai/
     │   │   ├── OpenAIClient.php
     │   │   ├── PromptTemplates.php
