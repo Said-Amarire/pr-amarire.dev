@@ -179,7 +179,7 @@ public_html/
     │   │       ├── ApiLogger.php
     │   │       ├── ThrottleService.php
     │   │       ├── RateLimitService.php
-    │   │       └── ServiceSearchService.php
+    │   │       └── ServiceApiManager.php
     │   ├── ai/
     │   │   ├── OpenAIClient.php
     │   │   ├── PromptTemplates.php
