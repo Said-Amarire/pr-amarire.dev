@@ -141,6 +141,7 @@ public_html/
     │   │       │   ├── ChatbotApiController.php
     │   │       │   ├── NotificationApiController.php
     │   │       │   ├── ContactApiController.php
+    │   │       │   ├── I18nApiController.php
     │   │       │   └── PaymentApiController.php
     │   │       └── v2/
     │   ├── models/
@@ -180,6 +181,7 @@ public_html/
     │   │       ├── ThrottleService.php
     │   │       ├── RateLimitService.php
     │   │       ├── ServiceApiManager.php
+    │   │       ├── I18nService.php
     │   │       └── CacheService.php
     │   ├── ai/
     │   │   ├── OpenAIClient.php
