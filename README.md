@@ -170,7 +170,7 @@ public_html/
     │   │   |   ├── MailService.php
     │   │   |   ├── ProjectService.php
     │   │   |   ├── ServiceManager.php
-    │   │   |   ├── ServiceDetailsManager.php
+    │   │   |   ├── SingleServiceManager.php
     │   │   |   ├── ContactService.php
     │   │   |   ├── PaymentService.php
     │   │   |   ├── ReceiptService.php
