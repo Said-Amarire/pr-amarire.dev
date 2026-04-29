@@ -154,6 +154,7 @@ public_html/
     │   │   ├── Payment.php
     │   │   ├── Category.php
     │   │   ├── Service.php
+    │   │   ├── ServiceVariant.php
     │   │   ├── Package.php
     │   │   ├── Addon.php
     │   │   ├── ServiceRequest.php
