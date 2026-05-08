@@ -110,6 +110,7 @@ public_html/
     │   │   ├── Response.php
     │   │   ├── Validator.php
     │   │   ├── Security.php
+    │   │   ├── Model.php
     │   │   └── Session.php
     │   ├── controllers/
     │   │   ├── web/
