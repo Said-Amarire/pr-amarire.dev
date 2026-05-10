@@ -160,6 +160,7 @@ public_html/
     │   │   ├── Addon.php
     │   │   ├── ServiceRequest.php
     │   │   ├── ServiceReview.php
+    │   │   ├── Faq.php
     │   │   ├── VisitorAnalytics.php
     │   │   ├── VisitorEvent.php
     │   │   ├── ChatMessage.php
