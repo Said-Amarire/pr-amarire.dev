@@ -14,6 +14,7 @@ public_html/
 │   ├── js/
 │   │   ├── header.js
 │   │   ├── home.js
+│   │   ├── order-engine.js
 │   │   └── footer.js
 │   ├── images/
 │   │   ├── global/
@@ -179,6 +180,7 @@ public_html/
     │   │   |   ├── ContactService.php
     │   │   |   ├── PaymentService.php
     │   │   |   ├── ReceiptService.php
+    │   │   |   ├── OrderService.php
     │   │   |   ├── AiService.php
     │   │   |   └── ChatbotService.php
     │   │   └── api/
