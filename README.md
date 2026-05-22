@@ -244,6 +244,10 @@ public_html/
     │   │   └── i18n.php
     │   ├── api/
     │   │   ├── ApiGateway.php
+    │   │   ├── ApiTiers.php
+    │   │   ├── ApiPolicyResolver.php
+    │   │   ├── policies/
+    │   │   │   └── global.policies.php
     │   │   ├── resources/
     │   │   │   ├── ServiceResource.php
     │   │   │   └── UserResource.php
