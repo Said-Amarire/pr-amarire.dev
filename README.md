@@ -251,10 +251,8 @@ public_html/
     │   │   ├── resources/
     │   │   │   ├── ServiceResource.php
     │   │   │   └── UserResource.php
-    │   │   ├── validators/
-    │   │   │   └── SearchValidator.php
-    │   │   ├── responses/
-    │   │   │   └── ApiResponse.php
+    │   │   └── validators/
+    │   │       └── SearchValidator.php
     │   ├── routes/
     │   │   ├── web.php
     │   │   └── api.php
