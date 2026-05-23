@@ -248,6 +248,8 @@ public_html/
     │   │   ├── ApiPolicyResolver.php
     │   │   ├── policies/
     │   │   │   └── global.policies.php
+    │   │   ├── Responses/
+    │   │   │   └── ApiResponse.php
     │   │   ├── resources/
     │   │   │   ├── ServiceResource.php
     │   │   │   └── UserResource.php
