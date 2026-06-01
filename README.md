@@ -15,6 +15,7 @@ public_html/
 │   │   ├── header.js
 │   │   ├── home.js
 │   │   ├── order-engine.js
+│   │   ├── auth-manager.js
 │   │   └── footer.js
 │   ├── images/
 │   │   ├── global/
