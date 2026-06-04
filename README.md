@@ -74,7 +74,7 @@ public_html/
 │   │   └── demos/
 │   │       └── birthday/boys/ar.php
 │   ├── components/
-│   │   ├── auth_modals.php
+│   │   ├── auth-popup.php
 │   │   ├── navbar.php
 │   │   ├── seo_schema.php
 │   │   └── chatbot_widget.php
