@@ -254,6 +254,7 @@ public_html/
     │   │   │   └── ApiResponse.php
     │   │   ├── resources/
     │   │   │   ├── ServiceResource.php
+    │   │   │   ├── AuthResource.php
     │   │   │   └── UserResource.php
     │   │   └── validators/
     │   │       └── SearchValidator.php
