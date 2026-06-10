@@ -186,7 +186,8 @@ public_html/
     │   │   |   ├── ReceiptService.php
     │   │   |   ├── OrderService.php
     │   │   |   ├── AiService.php
-    │   │   |   └── ChatbotService.php
+    │   │   |   ├── ChatbotService.php
+    │   │   |   └── FingerprintService.php
     │   │   └── api/
     │   │       ├── TokenService.php
     │   │       ├── ApiLogger.php
