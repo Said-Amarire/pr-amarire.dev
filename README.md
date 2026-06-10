@@ -168,8 +168,10 @@ public_html/
     │   │   ├── VisitorAnalytics.php
     │   │   ├── VisitorEvent.php
     │   │   ├── ChatMessage.php
+    │   │   ├── WebSession.php
     │   │   └── api/
-    │   │       └── ApiRateLimit.php
+    │   │       ├── ApiRateLimit.php
+    │   │       └── AuthSession.php
     │   ├── services/
     │   │   ├── shared/
     │   │   |   ├── AuthService.php
