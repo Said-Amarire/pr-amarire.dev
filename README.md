@@ -69,6 +69,7 @@ public_html/
 │   │   ├── verify.php
 │   │   ├── forgot_password.php
 │   │   ├── reset_password.php
+│   │   ├── password_success.php
 │   │   ├── admin/
 │   │   │   └── upload_invoice.php
 │   │   └── demos/
