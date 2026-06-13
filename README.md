@@ -64,12 +64,13 @@ public_html/
 │   │   |   ├── single.php
 │   │   |   ├── packages.php
 │   │   |   └── request.php
-│   │   ├── login.php
-│   │   ├── register.php
-│   │   ├── verify.php
-│   │   ├── forgot_password.php
-│   │   ├── reset_password.php
-│   │   ├── password_success.php
+│   │   ├── auth/
+│   │   |   ├── login.php
+│   │   |   ├── register.php
+│   │   |   ├── verify.php
+│   │   |   ├── forgot_password.php
+│   │   |   ├── reset_password.php
+│   │   |   └── password_success.php
 │   │   ├── admin/
 │   │   │   └── upload_invoice.php
 │   │   └── demos/
