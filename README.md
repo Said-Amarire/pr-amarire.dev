@@ -124,6 +124,7 @@ public_html/
     │   │   │   ├── DemoController.php
     │   │   │   ├── AuthController.php
     │   │   │   ├── DashboardController.php
+    │   │   │   ├── AccountController.php
     │   │   │   ├── InvoiceController.php
     │   │   │   ├── PaymentController.php
     │   │   │   ├── ServiceController.php
