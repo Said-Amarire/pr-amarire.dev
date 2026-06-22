@@ -77,6 +77,7 @@ public_html/
 │   │       └── birthday/boys/ar.php
 │   ├── components/
 │   │   ├── auth-popup.php
+│   │   ├── logout-modal.php
 │   │   ├── navbar.php
 │   │   ├── seo_schema.php
 │   │   └── chatbot_widget.php
