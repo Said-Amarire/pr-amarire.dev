@@ -151,6 +151,7 @@ public_html/
     │   │       │   ├── NotificationApiController.php
     │   │       │   ├── ContactApiController.php
     │   │       │   ├── I18nApiController.php
+    │   │       │   ├── PaymentPlanApiController.php
     │   │       │   └── PaymentApiController.php
     │   │       └── v2/
     │   ├── models/
@@ -161,6 +162,7 @@ public_html/
     │   │   ├── Order.php
     │   │   ├── Contact.php
     │   │   ├── Payment.php
+    │   │   ├── PaymentPlan.php
     │   │   ├── Category.php
     │   │   ├── Service.php
     │   │   ├── ServiceVariant.php
@@ -192,6 +194,7 @@ public_html/
     │   │   |   ├── OrderService.php
     │   │   |   ├── AiService.php
     │   │   |   ├── ChatbotService.php
+    │   │   |   ├── PaymentPlanService.php
     │   │   |   └── FingerprintService.php
     │   │   └── api/
     │   │       ├── TokenService.php
