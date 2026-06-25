@@ -193,6 +193,7 @@ public_html/
     │   │   |   ├── PaymentService.php
     │   │   |   ├── ReceiptService.php
     │   │   |   ├── OrderService.php
+    │   │   |   ├── OrderEngineService.php
     │   │   |   ├── AiService.php
     │   │   |   ├── ChatbotService.php
     │   │   |   ├── PaymentPlanService.php
