@@ -78,6 +78,7 @@ public_html/
 │   ├── components/
 │   │   ├── auth-popup.php
 │   │   ├── logout-modal.php
+│   │   ├── payment-plan-modal.php
 │   │   ├── navbar.php
 │   │   ├── seo_schema.php
 │   │   └── chatbot_widget.php
