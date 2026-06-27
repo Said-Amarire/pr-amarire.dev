@@ -161,6 +161,7 @@ public_html/
     │   │   ├── Project.php
     │   │   ├── Currency.php
     │   │   ├── Order.php
+    │   │   ├── OrderAddon.php
     │   │   ├── Contact.php
     │   │   ├── Payment.php
     │   │   ├── PaymentPlan.php
