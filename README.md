@@ -114,6 +114,7 @@ public_html/
     │   │   ├── Config.php
     │   │   ├── Database.php
     │   │   ├── Request.php
+    │   │   ├── IpResolver.php
     │   │   ├── Response.php
     │   │   ├── Validator.php
     │   │   ├── Security.php
